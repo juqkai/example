@@ -1,5 +1,2 @@
 English | [中文](/README-cn.md)
 # OpenHub 
-[![Releases](https://img.shields.io/badge/android-5.0%2B-brightgreen.svg)](https://www.coolapk.com/apk/com.thirtydegreesray.openhub)
-
-
